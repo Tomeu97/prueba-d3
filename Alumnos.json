@@ -1,0 +1,22 @@
+[
+  {
+    "Alumno": "Pedro",
+    "Nota": 9.09,
+    "Ranking": 4
+  },
+  {
+    "Alumno": "Juan",
+    "Nota": 5,
+    "Ranking": 47
+  },
+  {
+    "Alumno": "Paco",
+    "Nota": 7,
+    "Ranking": 21
+  },
+  {
+    "Alumno": "Tomi",
+    "Nota": 10,
+    "Ranking": 1
+  }
+]
